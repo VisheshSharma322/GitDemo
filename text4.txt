@@ -1,0 +1,1 @@
+A text document is a computer file containing textual information. It primarily consists of characters and is often used for storing human-readable content like code, notes, or data. Text documents can be created and edited using basic text editors, making them versatile and easily shareable. 
